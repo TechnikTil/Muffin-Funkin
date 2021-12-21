@@ -1,3 +1,8 @@
+Warning!
+The source code and the release are the same! Just the source code doesn't have a tutorial to install!
+
+This will be changed when the other version is released
+
 BadBoyHalo and CG5 were planning to make the new muffin song when suddenly Boyfriend and Girlfriend appear and tell them to record it at the week 1 stage.
 
 They stay, which makes playable to us.
@@ -17,3 +22,4 @@ CG5!
 
 
 Made with Psych Engine
+
