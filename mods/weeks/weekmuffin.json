@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Muffin",
+			"muffin",
+			[
+				224,
+				152,
+				50
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "muffin",
+	"weekCharacters": [
+		"gf",
+		"bf",
+		""
+	],
+	"storyName": "Im thinking, thinking about you",
+	"weekName": "Week Muffin",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

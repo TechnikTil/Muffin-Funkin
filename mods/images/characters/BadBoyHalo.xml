@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BadBoyHalo.png">
+<SubTexture name="BadBoyHalo Miss Down0000" x="2008" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Down0001" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Down0002" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Down0003" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Down0004" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Down0005" x="0" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Left0000" x="3012" y="4016" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Left0001" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Left0002" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Left0003" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Left0004" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Left0005" x="1004" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Right0000" x="3012" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Right0001" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Right0002" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Right0003" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Right0004" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Right0005" x="2008" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Up0000" x="0" y="4016" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Up0001" x="3012" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Up0002" x="3012" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Up0003" x="3012" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Up0004" x="3012" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Miss Up0005" x="3012" y="0" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Idle0000" x="0" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Idle0001" x="1004" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Idle0002" x="2008" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Idle0003" x="3012" y="1004" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Idle0004" x="0" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Idle0005" x="1004" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Idle0006" x="2008" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Right0000" x="3012" y="2008" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Right0001" x="0" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Down0000" x="1004" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Down0001" x="2008" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Down0002" x="3012" y="3012" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Up0000" x="0" y="4016" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Up0001" x="1004" y="4016" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Up0002" x="2008" y="4016" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Left0000" x="3012" y="4016" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Left0001" x="0" y="5020" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+<SubTexture name="BadBoyHalo Left0002" x="1004" y="5020" width="1004" height="1004" frameX="0" frameY="0" frameWidth="1004" frameHeight="1004" />
+</TextureAtlas>

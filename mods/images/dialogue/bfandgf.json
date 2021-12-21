@@ -1,0 +1,50 @@
+{
+	"position": [
+		220,
+		160
+	],
+	"dialogue_pos": "left",
+	"scale": 1.55,
+	"image": "Bf and Gf",
+	"animations": [
+		{
+			"loop_offsets": [
+				30,
+				0
+			],
+			"anim": "Both",
+			"idle_offsets": [
+				30,
+				0
+			],
+			"loop_name": "Bf and Gf both",
+			"idle_name": "Bf and Gf idle"
+		},
+		{
+			"loop_offsets": [
+				30,
+				0
+			],
+			"anim": "Bf",
+			"idle_offsets": [
+				30,
+				0
+			],
+			"loop_name": "Bf and Gf bf tlkin",
+			"idle_name": "Bf and Gf idle"
+		},
+		{
+			"loop_offsets": [
+				30,
+				0
+			],
+			"anim": "Gf",
+			"idle_offsets": [
+				30,
+				0
+			],
+			"loop_name": "Bf and Gf gf talkin",
+			"idle_name": "Bf and Gf idle"
+		}
+	]
+}

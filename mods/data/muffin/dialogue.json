@@ -1,0 +1,214 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ok CG5! I am ready for the reco-",
+			"boxState": "normal",
+			"portrait": "BBH",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What the!",
+			"boxState": "angry",
+			"portrait": "BBH",
+			"speed": 0.035
+		},
+		{
+			"expression": "talk",
+			"text": "Who are you?",
+			"boxState": "angry",
+			"portrait": "bbh",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Beep bop. bep bop",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "BBH",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What?"
+		},
+		{
+			"expression": "talk",
+			"text": "Well its not that important anyways.",
+			"boxState": "normal",
+			"portrait": "BBH",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "So, are we gonna record it?!",
+			"boxState": "angry",
+			"portrait": "CG5",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yes, chill.",
+			"boxState": "normal",
+			"portrait": "BBH",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop skedop",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nothing",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GF comes into the recording stage"
+		},
+		{
+			"expression": "talk",
+			"text": "So, he is saying",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Cg5",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh great, another one."
+		},
+		{
+			"expression": "talk",
+			"text": "If you guys can record the video somewhere else like at our stage!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "That is a good idea!",
+			"boxState": "normal",
+			"portrait": "BBH",
+			"speed": 0.05
+		},
+		{
+			"expression": "sing",
+			"text": "♪It is just taking so long for them to listen!♪",
+			"boxState": "normal",
+			"portrait": "CG5",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Pack up, clean up CG5!\\nWe are going somewhere else!",
+			"boxState": "normal",
+			"portrait": "BBH",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yay! I dont like this place anyway!",
+			"boxState": "normal",
+			"portrait": "Skeppy",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nothing",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So they go the stage, but its decorated a lot and with that I mean it."
+		},
+		{
+			"expression": "sing",
+			"text": "I like this microphone better than the old one!",
+			"boxState": "normal",
+			"portrait": "CG5",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bbh",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Seriously that right now?"
+		},
+		{
+			"expression": "talk",
+			"text": "Bee, bop bee ske bep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll go on the speaker with you too bf!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Guys, CaptainPuffy wont be able to come right now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Skeppy"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh thats bad!",
+			"boxState": "normal",
+			"portrait": "BBH",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skeppy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good news is she has already recorded the lines!"
+		},
+		{
+			"expression": "Gf",
+			"text": "Can we move to CaptainPuffy's lines?",
+			"boxState": "normal",
+			"portrait": "bfandgf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Sure!",
+			"boxState": "normal",
+			"portrait": "BBH",
+			"speed": 0.05
+		},
+		{
+			"expression": "Bf",
+			"text": "Beepy! :)",
+			"boxState": "normal",
+			"portrait": "bfandgf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Both: Turn on the music!\\nJust bf does it in beeps.",
+			"boxState": "normal",
+			"portrait": "bfandgf",
+			"speed": 0.05
+		}
+	]
+}

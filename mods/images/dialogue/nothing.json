@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		140,
+		180
+	],
+	"scale": 0.1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-130,
+				-179
+			],
+			"idle_offsets": [
+				-130,
+				-179
+			],
+			"loop_name": "Dialogue Talk",
+			"idle_name": "Dialogue Idle"
+		}
+	],
+	"image": "Skeppy"
+}

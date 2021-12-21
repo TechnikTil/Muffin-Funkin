@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		20,
+		70
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				190,
+				151
+			],
+			"idle_offsets": [
+				190,
+				151
+			],
+			"loop_name": "Dialogue Talk",
+			"idle_name": "Dialogue Idle"
+		}
+	],
+	"image": "BBH"
+}

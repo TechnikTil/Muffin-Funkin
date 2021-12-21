@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				230,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BadBoyHalo Idle"
+		},
+		{
+			"offsets": [
+				217,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BadBoyHalo Down"
+		},
+		{
+			"offsets": [
+				212,
+				205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BadBoyHalo Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				219
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BadBoyHalo Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				220
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BadBoyHalo Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				220
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BadBoyHalo Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				206
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BadBoyHalo Miss Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				252,
+				212
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BadBoyHalo Miss Left"
+		},
+		{
+			"offsets": [
+				252,
+				212
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BadBoyHalo Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BadBoyHalo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bad",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		18,
+		-2147483648
+	],
+	"camera_position": [
+		260,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
